@@ -2,3 +2,45 @@
   font-family: sans-serif;
   text-align: center;
 }
+.chatInput {
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+  background: #d3d3d3;
+  box-shadow: 0px 2px 4px rgba(12, 11, 11, 0.5);
+}
+.sendButton {
+  width: 70px;
+  height: 35px;
+  border-radius: 10px;
+  background: #7056e3;
+  box-shadow: 0px 2px 4px rgba(5, 0, 0, 0.5);
+}
+
+.list-row {
+  width: 400px;
+  height: 30px;
+  border-radius: 8px;
+  border: solid 1px #060606;
+  background: #5bc4d8;
+  box-shadow: 0px 2px 4px rgba(12, 11, 11, 0.5);
+  padding: 10px;
+  margin: 10px;
+  font-size: 21px;
+}
+
+.list-row-red {
+  width: 400px;
+  height: 30px;
+  border-radius: 8px;
+  border: solid 1px #060606;
+  background: #d85b5b;
+  box-shadow: 0px 2px 4px rgba(12, 11, 11, 0.5);
+  padding: 10px;
+  margin: 10px;
+  font-size: 21px;
+}
+
+.state {
+  font-size: 21px;
+}
